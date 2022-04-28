@@ -14,6 +14,12 @@ This command line application generates a README file using the users responses 
 You will need Node.js already installed for the application to work. You will also need to install the inquirer package in the project folder, you can do this by typing npm i inquirer into the terminal
 ## Usage Information
 When you're ready to make your readme file just open your terminal and type node index.js. You will then be prompted with multiple questions about your project, just enter in the information you want in your README and the application will generate your README file.
+## Screen Recording
+
+
+https://user-images.githubusercontent.com/97699457/165862741-acd2c407-1b6e-453e-8242-ad61c43aa0c8.mp4
+
+
 ## Contribution Guidelines
 You can't contribute to this project
 ## Test Instructions
